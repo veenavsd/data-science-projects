@@ -100,7 +100,7 @@ cm<-table(pred,Test$Attrition)    #frequency is obtained by table
 cm
 accuracy(cm)  # accuracy(cm)(lin)= 0.7179487
 ###################################################################################
-#neural network
+#random forest is champion among all models
 
 
 
